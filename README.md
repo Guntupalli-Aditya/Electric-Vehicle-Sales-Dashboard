@@ -1,5 +1,5 @@
 # Electric-Vehicle-Sales-Dashboard
-
+An interactive Tableau dashboard to analyze electric vehicle sales trends, including state-wise data, EV models, and types. It offers clear visualizations of sales metrics and trends for better insights. The project utilizes data sourced from Kaggle to provide accurate and detailed analysis. It helps users track EV adoption patterns and identify popular models and states.
 # Overview
 This project presents an interactive dashboard analyzing electric vehicle (EV) sales data. The dashboard provides insights into metrics such as state-wise distribution, vehicle models, EV types, and the total number of vehicles sold. It aims to give a clear understanding of EV sales trends, helping stakeholders make informed decisions.
 
